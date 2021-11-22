@@ -1,9 +1,9 @@
-<p align="left"> 
+<!-- <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=ks3057&label=Views&color=blue&style=plastic" alt="ks3057" />
- </p>
+ </p> -->
 
 - 👋 Hi, I’m Kirtana Suresh
-- 🌱 I’m a currently pursuing MS in Software Engineering at RIT
+- 🌱 I’m a Data Engineer
 
 </br> 
 <a href="https://github.com/ks3057">
